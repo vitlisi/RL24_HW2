@@ -7,7 +7,7 @@ Caricamento separato di iiwa per la grandezza dei file
 ### 1. Clone the repository:
 Clone the repository into a local folder:
 ```bash
-git clone https://github.com/ferd-bot/RL_24_Homewrok_2_Robotics.git
+https://github.com/vitlisi/RL24_HW2.git
 ```
 
 ### 2. Configure and build the packages:
