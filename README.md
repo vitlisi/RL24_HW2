@@ -11,7 +11,7 @@ The **NewRelease** branch introduces a more readable and clearer version of the 
 ### 1. Clone the Repository
 Download the repository from GitHub:
 ```bash
-git clone -b REV_2 https://github.com/ferd-bot/RL_24_Homewrok_2_Robotics.git
+git clone -b REV_2 https://github.com/vitlisi/RL24_HW2.git
 ```
 
 ### 2. Configure and Build the Workspace
